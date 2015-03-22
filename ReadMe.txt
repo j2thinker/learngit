@@ -1,3 +1,3 @@
-This is a test
+Begin to learn Git
 git is a free software
 add something new
