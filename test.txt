@@ -5,3 +5,4 @@ add something at branch
 add something at master branch
 add from workplace branch
 Now I'm home and do something changed
+use --no-ff param
